@@ -1,0 +1,24 @@
+{
+  "name": "301-practice-3",
+  "version": "1.0.0",
+  "description": "**1.How long is the array returned by .map()? .filter()?**   map returns a new array of elements where you have applied some function on the element so that it changes the original element (typically). filter returns a new array of the elements of the original array (with no change to the original values).",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Goorob/301-practice-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Goorob/301-practice-3/issues"
+  },
+  "homepage": "https://github.com/Goorob/301-practice-3#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
